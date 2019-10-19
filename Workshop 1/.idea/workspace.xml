@@ -2,14 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="321ec149-a29f-4919-a8b8-dabd898289bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab1P1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab1P3.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab1P4.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop 2/.idea/Workshop 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop 2/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop 2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop 2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop 2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop 2/Notebook.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Workshop 1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Workshop 1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1P1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1P1.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab1P2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1P2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1P3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1P3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1P4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1P4.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,11 +37,12 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="Jupyter Settings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\James\Documents\GitHub\Stats-Workshops\Workshop 2" />
       <recent name="C:\Users\James\Documents\GitHub\Stats-Workshops\Workshop 1" />
     </key>
   </component>
@@ -65,6 +71,12 @@
       <workItem from="1569403346790" duration="7831000" />
       <workItem from="1569585414095" duration="16522000" />
       <workItem from="1569856380136" duration="2142000" />
+      <workItem from="1570393682238" duration="604000" />
+      <workItem from="1570394301470" duration="4429000" />
+      <workItem from="1570443947866" duration="20211000" />
+      <workItem from="1570626409489" duration="7255000" />
+      <workItem from="1571134586046" duration="3043000" />
+      <workItem from="1571479638559" duration="46000" />
     </task>
     <servers />
   </component>
